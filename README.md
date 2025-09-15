@@ -34,7 +34,7 @@ Welcome! I'm a Master's graduate in Cybersecurity with hands-on experience in vu
 
 ## Resume
 
-## 📬 Contact
+## Contact
 - LinkedIn:
 - GitHub:
 - Email: eluemichaela@yahoo.com
