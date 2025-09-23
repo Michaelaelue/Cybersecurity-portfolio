@@ -9,6 +9,24 @@ To Configure and tune Snort IDS to detect common attack patterns such as port sc
 
 ## Methodology & Screenshots
 
+1. **Snort Installation & Setup**  
+   Installed Snort on Kali Linux and configured network interfaces for packet capture.
+
+2. **Rule Creation & Tuning**  
+   Wrote custom Snort rules to detect port scans and brute-force login attempts. Tuned rules to reduce false positives.
+
+3. **Attack Simulation**  
+   Simulated attacks using Nmap and Hydra to trigger alerts and validate rule effectiveness.
+
+4. **Alert Analysis**  
+   Captured and analyzed alerts using Snort logs and Wireshark. Verified detection accuracy.
+
+5. **MITRE ATT&CK Mapping**  
+   Mapped Snort alerts to MITRE ATT&CK techniques to contextualize threats and improve strategic visibility.
+
+6. **Reporting & Recommendations**  
+   Documented alert types, rule logic, and proposed improvements for detection fidelity and response workflows.
+
 ### 1. Snort Configuration
 Configured Snort with custom rules to detect suspicious activity.
 
