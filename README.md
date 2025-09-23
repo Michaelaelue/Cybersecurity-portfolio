@@ -1,5 +1,8 @@
+MICHAELA ELUE
+Cybersecurity Portfolio  
+Threat Detection | Vulnerability Analysis | Compliance
+
 # Cybersecurity-portfolio
-My Project
 Welcome! I'm a Master's graduate in Cybersecurity with hands-on experience in vulnerability assessment, intrusion detection, and compliance frameworks. This portfolio showcases my academic projects, technical skills, and certifications.
 ## Coursework Projects
 ### Vulnerability Analysis – Kioptrix 1 VM
