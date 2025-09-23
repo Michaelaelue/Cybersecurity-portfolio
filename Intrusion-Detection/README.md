@@ -6,8 +6,6 @@ To Configure and tune Snort IDS to detect common attack patterns such as port sc
 ## Tools & Technologies
 - Snort IDS
 - Kali Linux
-- Wireshark
-- MITRE ATT&CK Framework
 
 ## Methodology & Screenshots
 
@@ -19,6 +17,13 @@ Configured Snort with custom rules to detect suspicious activity.
 <img width="1505" height="1193" alt="Screenshot 2024-10-16 131653" src="https://github.com/user-attachments/assets/a85a8e74-6f96-4b7f-90d7-6881381db46b" />
 <img width="1484" height="1199" alt="Screenshot 2024-10-16 131538" src="https://github.com/user-attachments/assets/f0203aba-590b-4686-a2bc-2eb2e836aa41" />
 <img width="1567" height="1199" alt="Screenshot 2024-10-16 130400" src="https://github.com/user-attachments/assets/77bc6d8f-4305-4aae-acec-2e31cd035af3" />
+
+### 2. Alert Generation
+Simulated port scans and brute-force attacks to trigger alerts.
+
+![Snort Alerts](screenshots/snort-alerts.png)
+<img width="1295" height="966" alt="Screenshot 2024-10-16 165554" src="https://github.com/user-attachments/assets/a47e3ea8-8316-4fa7-b98e-26c9f09efc70" />
+<img width="1462" height="1199" alt="Screenshot 2024-10-16 154742" src="https://github.com/user-attachments/assets/60500c4c-16af-4b77-b5f6-c78687c9849b" />
 
 ## Findings
 - Successfully detected multiple attack types
